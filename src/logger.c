@@ -5,7 +5,7 @@
     Last modified: Tuesday, October 15, 2024
 */
 
-#include "logger.h"
+#include "../include/logger.h"
 
 /**
  * Log levels array used for logging.
